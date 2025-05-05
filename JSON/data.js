@@ -1,4 +1,4 @@
-[
+const cakeData = [
     {
       "id": "item-001",
       "name": "Classic Chocolate Cake",
@@ -80,3 +80,5 @@
       "allergens": ["Gluten", "Dairy", "Soy"]
     }
   ]
+
+  export default cakeData; 
